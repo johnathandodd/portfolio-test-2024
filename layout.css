@@ -1,0 +1,15 @@
+#mainContainer {
+    width: 75%;
+    text-align: center;
+    margin: auto;
+    padding: -50px;
+}
+
+nav {
+    width: 75%;
+    margin: auto;
+}
+
+.thumbs {
+    width: 49%;
+}

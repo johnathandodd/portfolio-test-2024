@@ -1,0 +1,34 @@
+:root {
+  --blue: #1e90ff;
+  --white: #ffffff;
+  --darkBlue: #20212b;
+  --darkGrey: #222;
+  --zenusPink: #ff009e;
+  --zenusBlurple: #190935;
+}
+
+body {
+  font-size: 3vw;
+  background-color: var(--darkBlue);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--zenusPink);
+  font-family: "Pirata One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  padding: 0;
+  margin: 0;
+}
+
+p {
+  color: var(--blue);
+  font-family: "Texturina", serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+ }
+
+ a {
+  text-decoration: none;
+ }
